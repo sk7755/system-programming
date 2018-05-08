@@ -1,0 +1,10 @@
+<SP_project1 written by 20151607 정재훈>
+
+-COMPILE-
+type the command "make" for compiling source codes
+
+-EXECUTION-
+type the command "./20151607.out" for executing the program
+
+-DELETE-
+type the command "make clean" for deleting all files except for source files
